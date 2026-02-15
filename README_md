@@ -1,15 +1,16 @@
 # Database Management System Assignment 
 
-## 📌 Student Information
+##  Student Information
 - **Name:** [Puja Kumari]
-- **Roll Number:** [23759]
+- **Roll No.**[23759]
+-**Registration No:**[23157128031]
 - **Course/Branch:** [B.TECH/CSE(AI&ML)]
 - **Subject:** DBMS Lab
 - **College:** [B.P MANDAL COLLEGE OF ENGINEERING, MADHEPURA]
 
 ---
 
-## 📖 Assignment Overview
+## Assignment Overview
 
 This project focuses on designing a **College Database** using Entity–Relationship (ER) modeling and converting it into relational tables and SQL implementation.
 
@@ -21,7 +22,7 @@ The assignment includes:
 
 ---
 
-## 🗂️ Repository Contents
+##  Repository Contents
 
 This repository contains the following files:
 
@@ -31,7 +32,7 @@ This repository contains the following files:
 
 ---
 
-## 🧩 Database Entities
+##  Database Entities
 
 The main entities used in this database design are:
 
@@ -45,7 +46,7 @@ These entities are connected through relationships such as one-to-many and many-
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - ER Diagram Tool: draw.io (diagrams.net)
 - Database: Oracle SQL 
@@ -53,7 +54,7 @@ These entities are connected through relationships such as one-to-many and many-
 
 ---
 
-## ▶️ How to Run the SQL File
+## How to Run the SQL File
 
 1. Open your database software (e.g., Oracle SQL or MySQL).
 2. Create a new database (optional).
@@ -67,7 +68,7 @@ These entities are connected through relationships such as one-to-many and many-
 
 ---
 
-## ✅ Features
+##  Features
 
 - Proper primary and foreign key constraints
 - Normalized relational tables
@@ -76,16 +77,16 @@ These entities are connected through relationships such as one-to-many and many-
 
 ---
 
-## 📬 Submission
+##  Submission
 
 This repository is submitted as part of the DBMS Lab assignment.
 
 ---
 
-## ✍️ Author
+##  Author
 
 **[PUJA KUMARI]**
 
 ---
 
-⭐ Thank you for reviewing this project!
+ Thank you for reviewing this project!
